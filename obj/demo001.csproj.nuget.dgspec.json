@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Users/degleston/source/repos/demo001/demo001.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/Users/degleston/source/repos/demo001/demo001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Users/degleston/source/repos/demo001/demo001.csproj",
+        "projectName": "demo001",
+        "projectPath": "/mnt/c/Users/degleston/source/repos/demo001/demo001.csproj",
+        "packagesPath": "/home/degleston/.nuget/packages/",
+        "outputPath": "/mnt/c/Users/degleston/source/repos/demo001/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/degleston/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
